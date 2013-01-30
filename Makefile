@@ -180,6 +180,7 @@ d3.layout.js: \
 
 d3.geo.js: \
 	src/geo/geo.js \
+	src/geo/ambiguous.js \
 	src/geo/stream.js \
 	src/geo/spherical.js \
 	src/geo/cartesian.js \
