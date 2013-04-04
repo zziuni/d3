@@ -18,3 +18,6 @@
 	* d3.svg
 	* d3.scale
 	* d3.geo
+
+## 이력
+* 2013-04-04 : [Transition](https://github.com/zziuni/d3/wiki/Transitions) 문서를 3.0기준으로 갱신. 
