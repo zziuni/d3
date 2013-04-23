@@ -20,4 +20,6 @@
 	* d3.geo
 
 ## 이력
+* 2013-04-23 : Scale 문서중 [linear scale](https://github.com/zziuni/d3/wiki/Quantitative-Scales#wiki-linear) 관련 API 번역추가. 
+* 2013-04-07 : Core 문서 모두 3.0기주으로 갱신 
 * 2013-04-04 : [Transition](https://github.com/zziuni/d3/wiki/Transitions) 문서를 3.0기준으로 갱신. 
